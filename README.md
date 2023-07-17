@@ -1,8 +1,3 @@
-## sbt project compiled with Scala 3
+# S99
 
-### Usage
-
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
-
-For more information on the sbt-dotty plugin, see the
-[scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+[S-99: Ninety-Nine Scala Problems](https://aperiodic.net/phil/scala/s-99)でやったものを置いておくリポジトリ。
